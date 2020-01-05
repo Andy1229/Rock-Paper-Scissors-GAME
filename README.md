@@ -67,7 +67,6 @@ Rock, Paper, Scissors game was one of my assignments, and it was done in the fir
     makefile compiles all files provided, so just need to tpye "make" in the terminal. 
 
     The output is the name of the grand winner.
-        Sample input:
-        Avalanche Bureaucrat Bureaucrat Toolbox Toolbox Crescendo Crescendo Fistful- lODollars
+        Sample input:  Avalanche Bureaucrat Bureaucrat Toolbox Toolbox Crescendo Crescendo FistfullODollars
         Sample output: Toolbox
 
