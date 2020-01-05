@@ -1,5 +1,3 @@
-
-
 Rock, Paper, Scissors game was one of my assignments, and it was done in the first semester of the second year,
 
 1. Problem
