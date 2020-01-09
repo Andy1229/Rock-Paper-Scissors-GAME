@@ -65,7 +65,7 @@ main
 
 ## 3. Running
 
-makefile compiles all files provided, so just need to tpye "make" in the terminal. 
+makefile compiles all files provided, so just need to tpye "make" in the terminal, and run "main.exe". 
 
 ```
 Sample input:  Avalanche Bureaucrat Bureaucrat Toolbox Toolbox Crescendo Crescendo FistfullODollars
