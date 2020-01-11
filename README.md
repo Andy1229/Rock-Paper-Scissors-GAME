@@ -63,9 +63,9 @@ Avalanche
 main
 * In the main function, the RPSgame starts with calling Tournament. Once the tournament is set up in Tournament class, the order is saved in player array, and also the input of each player is saved in playerinput array. Finally, the main function calls referee class to compare two players for finding out a winner.
 
-## 3. Running
+## 2. Running
 
-makefile compiles all files provided, so just need to tpye "make" in the terminal, and run "main.exe". 
+for compiling it, need to tpye "g++ -o main.out -std=c++11 -O2 -Wall main.cpp" in the terminal, and run "main.exe". 
 
 ```
 Sample input:  Avalanche Bureaucrat Bureaucrat Toolbox Toolbox Crescendo Crescendo FistfullODollars
